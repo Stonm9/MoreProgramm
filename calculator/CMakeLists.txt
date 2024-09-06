@@ -1,0 +1,1 @@
+add_executable(calculator_public_test calculator.cpp parser.cpp calculator_public_test.cpp tokenize/tokenize.cpp polish_notation/polish_notation.cpp)
