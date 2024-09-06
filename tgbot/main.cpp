@@ -6,7 +6,7 @@
 // ----------------------------------------
 // Комилируеться в ручную с помощью g++ -fsanitize=address main.cpp database.cpp -o telegram_bot --std=c++14
 // -I/usr/local/include -lTgBot -lboost_system -lssl -lcrypto -lpthread -lsqlite3 Курс ФПМИ МФТИ "Разработка на С++"
-// студент Петров Денис Николаевич, финальный проект.
+// студент Петров Денис, финальный проект.
 #include "gamebot.h"
 #include "token.h"
 

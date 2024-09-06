@@ -5,7 +5,7 @@
 #include <cstdint>
 
 #include "gcd.h"
-#include "gcd.h"  
+#include "gcd.h"
 
 TEST_CASE("Gcd", "[Gcd]") {
   REQUIRE(Gcd(1, 1) == 1);

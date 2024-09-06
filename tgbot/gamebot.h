@@ -4,7 +4,7 @@
 // ----------------------------------------
 // Комилируеться ручную с помощью g++ -fsanitize=address main.cpp database.cpp -o telegram_bot --std=c++14
 // -I/usr/local/include -lTgBot -lboost_system -lssl -lcrypto -lpthread -lsqlite3
-// Курс ФПМИ МФТИ "Разработка на С++" студент Петров Денис Николаевич
+// Курс ФПМИ МФТИ "Разработка на С++" студент Петров Денис
 #ifndef GAMEBOT_H
 #define GAMEBOT_H
 
