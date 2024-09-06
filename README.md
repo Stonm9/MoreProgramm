@@ -14,68 +14,68 @@
 
 В корне репозитория находятся следующие файлы:
 
-- **`CMakeLists.txt`** - файл сборки некоторых программ
-- **`catch.hpp`** - файл для тестирования
-- **`codestyle_checker.sh`** - скрипт для проверки синтаксиса кода
-- **`run-clang-format.py`** - скрипт для коррекции синтаксиса кода
+- **[`CMakeLists.txt`](CMakeLists.txt)** - файл сборки некоторых программ
+- **[`catch.hpp`](catch.hpp)** - файл для тестирования
+- **[`codestyle_checker.sh`](codestyle_checker.sh)** - скрипт для проверки синтаксиса кода
+- **[`run-clang-format.py`](run-clang-format.py)** - скрипт для коррекции синтаксиса кода
 
 ## Программы и реализации
 
 В корневом каталоге расположены следующие проекты:
 
-- **`tgbot`** - реализация игры на tgbot с использованием SQLite3 и Catch тестов
-- **`calculator`** - реализация многофункционального калькулятора с использованием "Польской нотации" и токенизации элементов
-- **`any`** - реализация `std::any`
-- **`unique_ptr`** - реализация `std::unique_ptr`
-- **`shared_ptr`** - реализация `std::shared_ptr` без `WeakPtr`
-- **`string`** - реализация `std::string`
-- **`string_view`** - реализация `std::string_view`
-- **`gcd`** - подробное тестирование нахождения наибольшего общего делителя
-- **`array`** - реализация `std::array`
-- **`docker`** - небольшой Dockerfile для сборки Jupyter Notebook
+- **[`tgbot`](tgbot)** - реализация игры на tgbot с использованием SQLite3 и Catch тестов
+- **[`calculator`](calculator)** - реализация многофункционального калькулятора с использованием "Польской нотации" и токенизации элементов
+- **[`any`](any)** - реализация `std::any`
+- **[`unique_ptr`](unique_ptr)** - реализация `std::unique_ptr`
+- **[`shared_ptr`](shared_ptr)** - реализация `std::shared_ptr` без `WeakPtr`
+- **[`string`](string)** - реализация `std::string`
+- **[`string_view`](string_view)** - реализация `std::string_view`
+- **[`gcd`](gcd)** - подробное тестирование нахождения наибольшего общего делителя
+- **[`array`](array)** - реализация `std::array`
+- **[`docker`](docker)** - небольшой Dockerfile для сборки Jupyter Notebook
 
 ## Папка `arhivProg`
 
 В папке `arhivProg` хранятся однофайловые проекты:
 
-- **`AVL.cpp`** - реализация AVL-дерева
-- **`backpack.cpp`** - задача про рюкзак
-- **`bank.cpp`** - реализация небольшого банка с помощью `std::unordered_map`
-- **`baseData.cpp`** - база данных на основе `std::map`
-- **`binSearch.cpp`** - бинарный поиск
-- **`BST.cpp`** - бинарное дерево поиска
-- **`compare.cpp`** - пример использования компаратора
-- **`complex.cpp`** - работа с комплексными числами и класс, представляющий квадратное уравнение
-- **`countSort.cpp`** - сортировка подсчетом
-- **`decart.cpp`** - декартово дерево
-- **`dictionary.cpp`** - реализация словаря с помощью `std::unordered_map`
-- **`dinamikArr.cpp`** - реализация класса `DynamicArray`
-- **`fibonachi.cpp`** - числа Фибоначчи
-- **`findMasElement.cpp`** - поиск в отсортированном массиве одинакового количества элементов
-- **`findNotSort.cpp`** - поиск в неотсортированном массиве
-- **`grafEdges.cpp`** - поиск рёбер в неориентированной матрице
-- **`graphDeixter.cpp`** - реализация алгоритма Дейкстры
-- **`graphDistanse.cpp`** - алгоритм поиска в ширину (BFS)
-- **`graphLink.cpp`** - алгоритм поиска в ширину (BFS) для неориентированного графа
-- **`graphList.cpp`** - список смежности (для работы с графом)
-- **`hashTable.cpp`** - хеш-таблица
-- **`heap.cpp`** - реализация структуры данных "max-heap"
-- **`heapSort.cpp`** - реализация структуры данных "max-heap" с сортировкой
-- **`kassa.cpp`** - реализация размена денег на основе номиналов купюр
-- **`kleptoman.cpp`** - задача по выбору максимального количества предметов с ограничением по общему весу
-- **`ladder.cpp`** - решение задачи максимальной суммы подотрезка массива
-- **`merge.cpp`** - слияние двух отсортированных массивов в один отсортированный массив
-- **`mergeSort.cpp`** - реализация алгоритма сортировки слиянием
-- **`polsequence.cpp`** - польская последовательность
-- **`queue.cpp`** - реализация очереди
-- **`quickSortHoar.cpp`** - реализация быстрой сортировки (по Хоару)
-- **`quickSortLomuto.cpp`** - реализация быстрой сортировки (по Ломуто)
-- **`skobka.cpp`** - скобочная последовательность
-- **`sortBuble.cpp`** - сортировка пузырьком
-- **`sortInsertion.cpp`** - сортировка вставками
-- **`sortSelection.cpp`** - сортировка выбором
-- **`stack.cpp`** - реализация стека на основе связного списка
-- **`useSet.cpp`** - пример использования `std::set`
+- **[`AVL.cpp`](arhivProg/AVL.cpp)** - реализация AVL-дерева
+- **[`backpack.cpp`](arhivProg/backpack.cpp)** - задача про рюкзак
+- **[`bank.cpp`](arhivProg/bank.cpp)** - реализация небольшого банка с помощью `std::unordered_map`
+- **[`baseData.cpp`](arhivProg/baseData.cpp)** - база данных на основе `std::map`
+- **[`binSearch.cpp`](arhivProg/binSearch.cpp)** - бинарный поиск
+- **[`BST.cpp`](arhivProg/BST.cpp)** - бинарное дерево поиска
+- **[`compare.cpp`](arhivProg/compare.cpp)** - пример использования компаратора
+- **[`complex.cpp`](arhivProg/complex.cpp)** - работа с комплексными числами и класс, представляющий квадратное уравнение
+- **[`countSort.cpp`](arhivProg/countSort.cpp)** - сортировка подсчетом
+- **[`decart.cpp`](arhivProg/decart.cpp)** - декартово дерево
+- **[`dictionary.cpp`](arhivProg/dictionary.cpp)** - реализация словаря с помощью `std::unordered_map`
+- **[`dinamikArr.cpp`](arhivProg/dinamikArr.cpp)** - реализация класса `DynamicArray`
+- **[`fibonachi.cpp`](arhivProg/fibonachi.cpp)** - числа Фибоначчи
+- **[`findMasElement.cpp`](arhivProg/findMasElement.cpp)** - поиск в отсортированном массиве одинакового количества элементов
+- **[`findNotSort.cpp`](arhivProg/findNotSort.cpp)** - поиск в неотсортированном массиве
+- **[`grafEdges.cpp`](arhivProg/grafEdges.cpp)** - поиск рёбер в неориентированной матрице
+- **[`graphDeixter.cpp`](arhivProg/graphDeixter.cpp)** - реализация алгоритма Дейкстры
+- **[`graphDistanse.cpp`](arhivProg/graphDistanse.cpp)** - алгоритм поиска в ширину (BFS)
+- **[`graphLink.cpp`](arhivProg/graphLink.cpp)** - алгоритм поиска в ширину (BFS) для неориентированного графа
+- **[`graphList.cpp`](arhivProg/graphList.cpp)** - список смежности (для работы с графом)
+- **[`hashTable.cpp`](arhivProg/hashTable.cpp)** - хеш-таблица
+- **[`heap.cpp`](arhivProg/heap.cpp)** - реализация структуры данных "max-heap"
+- **[`heapSort.cpp`](arhivProg/heapSort.cpp)** - реализация структуры данных "max-heap" с сортировкой
+- **[`kassa.cpp`](arhivProg/kassa.cpp)** - реализация размена денег на основе номиналов купюр
+- **[`kleptoman.cpp`](arhivProg/kleptoman.cpp)** - задача по выбору максимального количества предметов с ограничением по общему весу
+- **[`ladder.cpp`](arhivProg/ladder.cpp)** - решение задачи максимальной суммы подотрезка массива
+- **[`merge.cpp`](arhivProg/merge.cpp)** - слияние двух отсортированных массивов в один отсортированный массив
+- **[`mergeSort.cpp`](arhivProg/mergeSort.cpp)** - реализация алгоритма сортировки слиянием
+- **[`polsequence.cpp`](arhivProg/polsequence.cpp)** - польская последовательность
+- **[`queue.cpp`](arhivProg/queue.cpp)** - реализация очереди
+- **[`quickSortHoar.cpp`](arhivProg/quickSortHoar.cpp)** - реализация быстрой сортировки (по Хоару)
+- **[`quickSortLomuto.cpp`](arhivProg/quickSortLomuto.cpp)** - реализация быстрой сортировки (по Ломуто)
+- **[`skobka.cpp`](arhivProg/skobka.cpp)** - скобочная последовательность
+- **[`sortBuble.cpp`](arhivProg/sortBuble.cpp)** - сортировка пузырьком
+- **[`sortInsertion.cpp`](arhivProg/sortInsertion.cpp)** - сортировка вставками
+- **[`sortSelection.cpp`](arhivProg/sortSelection.cpp)** - сортировка выбором
+- **[`stack.cpp`](arhivProg/stack.cpp)** - реализация стека на основе связного списка
+- **[`useSet.cpp`](arhivProg/useSet.cpp)** - пример использования `std::set`
 
 ## License
 
