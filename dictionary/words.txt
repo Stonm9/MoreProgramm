@@ -1,0 +1,483 @@
+insan>человек
+adam>мужчина
+kadın>женщина
+çocuk>ребенок
+oğlan>мальчик
+kız>девочка, дочь
+arkadaş>друг
+konuk>гость
+alıcı>покупатель
+aile>семья
+ebeveyn>родители
+baba>отец
+anne>мать
+kocam>муж
+karısı>жена
+kardeş>брат, сестра
+iş>работа
+öğretmen>учитель
+sürücü>водитель
+işçi>рабочий
+mühendis>инженер
+doktor>врач
+hemşire>медсестра
+satıcı>продавец
+muhasebeci>бухгалтер
+sanatçı>художник
+öğrenci>студент, школьник
+ülke>страна
+Rusya>Россия
+Türkiye>Турция
+hayvan>животное
+kedi>кошка
+köpek>собака
+kuş>птица
+şehir>город
+okul>школа
+üniversite>университет
+tiyatro>театр
+sokak>улица
+meydan>площадь
+ev>дом
+kilise>церковь
+cami>мечеть
+nehir>река
+kafe>кафе
+otelin>гостиница
+bahçe>сад
+park>парк
+banka>банк
+durak>остановка
+sinema>кинотеатр
+yer>место
+köprü>мост
+kavşağı>перекресток
+orman>лес
+hastane>больница
+pazar>рынок
+polis>полиция
+postane>почта
+istasyonu>станция, вокзал
+merkezi>центр
+dükkan>магазин
+dağ>гора
+daire>квартира
+mutfak>кухня
+balkon>балкон
+oda>комната
+banyo>ванная
+duş>душ
+tuvalet>туалет
+zemin>пол, этаж
+salon>гостиная
+yatak odası>спальня
+oturma odası>зал
+kapak>дверь
+pencere>окно
+tavan>потолок
+köşe>угол
+anahtar>ключ
+yatak>кровать
+battaniye>одеяло
+yastık>подушка
+masa>стол
+sandalye>стул
+koltuk>кресло
+ne>что
+hangi>какой
+kim>кто
+nerede>где
+nereye>куда
+nasıl>как
+neden>почему
+ne zaman>когда
+ne kadar>сколько
+düzlem>самолет
+araba>автомобиль
+tramvay>трамвай
+otobüs>автобус
+tren>поезд
+bisiklet>велосипед
+zaman>время
+yıl>год
+hafta>неделя
+saat>час
+dakika>минута
+dün>вчера
+bugün>сегодня
+yarın>завтра
+bayram>праздник
+sabah>утро
+gün>день
+gece>ночь
+isim>имя
+soyadı>фамилия
+adres>адрес
+numarası>номер
+şey>вещь
+kalem>ручка
+kitap>книга
+telefon>телефон
+saat>часы
+tarak>расческа
+televizyon>телевизор
+ütü>утюг
+sabun>мыло
+radyo>радио
+torba>сумка
+harita>карта
+kart>открытка
+bavul>чемодан
+bilet>билет
+ben>я
+sen>ты
+o>он, она, оно
+biz>мы
+siz>вы
+onlar>они
+benim>мой
+senin>твой
+onun>его, ее
+bizim>наш
+sizin>ваш
+onların>их
+sayı>число
+bin>тысяча
+eski>старый
+genç>молодой
+yeni>новый
+büyük>большой
+küçük>маленький
+aç>голодный
+tam>полный
+iyi>хороший
+kötü>плохой
+erken>ранний
+geç>поздний
+son>последний, прошлый
+sonraki>следующий
+özgür>бесплатный
+sıcak>жаркий, горячий, теплый
+soğuk>холодный
+keskin>острый (не тупой)
+baharatlı>острый (по вкусу)
+yüksek>высокий
+uzun>высокий (о росте), длинный, долгий
+kısa>короткий
+ağır>тяжелый
+hafif>легкий
+ışık>светлый
+koyu>темный
+pahalı>дорогой
+ucuz>дешевый
+sol>левый
+sağ>правый
+hızlı>быстрый
+yavaş>медленный
+yumuşak>мягкий
+sert>твердый
+güzel>красивый
+dikkatli>внимательный, осторожный
+üzgün>печальный
+sevindirici>радостный
+mutlu>счастливый
+hazır>готовый
+kızgın>сердитый
+ana>основной, главный
+renk>цвет
+siyah>черный
+mavi>синий
+kahverengi>коричневый
+yeşil>зеленый
+gri>серый
+kırmızı>красный
+beyaz>белый
+sarı>желтый
+evet>да
+yok>нет
+değil>не
+bu>это
+burada>здесь
+buraya>сюда
+orada>там
+oraya>туда
+şimdi>сейчас, теперь
+zaten>уже
+hala>(все) еще
+henüz>еще (не)
+çok>много, очень
+az>мало
+her>каждый
+herkes>все
+her şey>всё
+tüm>весь
+böyle>такой
+böylece>так
+önce>(столько-то времени) назад
+ve>и
+veya>или
+çünkü>потому что, так как
+olmak>быть, являться
+fıstıkçı şahap>глахие согласные
+sahip olmak>иметь
+var>есть, имеется
+yapabilmek>мочь
+yaşamak>жить
+gelmek>приходить, приезжать
+gitmek>идти, ехать
+görmek>видеть
+oturmak>cидеть
+demek>сказать
+konuşmak>говорить
+durmak>стоять
+çalışmak>работать
+almak>получать, брать, покупать
+kırmak>ломать
+yapmak>делать
+göndermek>посылать
+yüzmek>плавать
+uyumak>спать
+uyanmak>будить
+yıkamak>мыть, cтирать
+denemek>пытаться, пробовать
+bulmak>находить
+getirmek>приносить, привозить
+kutlamak>праздновать
+gülümsemek>улыбаться
+ağlamak>плакать
+öğrenmek>учиться
+öğretmek>обучать
+yazmak>писать
+değiştirmek>менять
+düşmek>падать
+duymak>слышать
+dinlemek>слушать
+göstermek>показывать
+kazanmak>побеждать
+düşünmek>думать
+kapatmak>закрывать
+açmak>открывать
+bilmek>знать
+şarkı söylemek>петь
+dans etmek>танцевать
+sormak>спрашивать
+toplamak>собирать
+sevmek>любить
+çizmek>рисовать
+seçmek>выбирать
+istemek>хотеть
+hoşlanmak>нравиться, любить
+yemek>кушать
+içmek>пить
+vermek>давать
+fırında pişirmek>печь
+pişirmek>варить, готовить
+kesmek>резать
+beklemek>ждать
+okumak>читать
+oynamak>играть
+yanıtlamak>отвечать
+kalmak>оставаться
+Kusura bakma!>Извините!
+Teşekkür ederim!>Cпасибо!
+bir şey değil>Пожалуйста, не за что
+lütfen>Пожалуйста (прошу)
+yazık>Жаль
+güle güle>До свидания!
+şarkı>песня
+müzik>музыка
+parti>вечеринка
+boyut>размер
+fiyat>цена
+para>деньги
+şans>удача
+şaka>шутка
+sürpriz>сюрприз
+sorun>проблема
+silah>оружие
+ateş>огонь
+doğa>природа
+film>фильм
+fotoğraf>фотография
+yalan>ложь
+gerçek>правда
+hava>погода
+yağmur>дождь
+rüzgar>ветер
+kar>снег
+gökyüzü>небо
+bir>один
+iki>два
+üç>три
+dört>четыре
+beş>пять
+altı>шесть
+yedi>семь
+sekiz>восемь
+dokuz>девять
+on>десять
+yirmi>двадцать
+otuz>тридцать
+kırk>сорок
+elli>пятьдесят
+altmış>шестьдесят
+yetmiş>семьдесят
+seksen>восемьдесят
+doksan>девяносто
+yüz>сто
+pazartesi>понедельник
+salı>вторник
+çarşamba>среда
+perşembe>четверг
+cuma>пятница
+cumartesi>суббота
+pazar>воскресенье
+ay>месяц
+ocak>январь
+şubat>февраль
+mart>март
+nisan>апрель
+mayıs>май
+haziran>июнь
+temmuz>июль
+ağustos>август
+eylül>сентябрь
+ekim>октябрь
+kasım>ноябрь
+aralık>декабрь
+bahar>весна
+yaz>лето
+sonbahar>осень
+kış>зима
+gıda>еда
+ekmek>хлеб
+tereyağı>масло
+peynir>сыр
+sosis>колбаса
+yağ>растительное масло
+biber>перец
+tuzu>соль
+dut>ягода
+bal>мед
+reçel>варенье
+mantar>гриб
+soğan>лук (репчатый)
+muz>банан
+havuç>морковь
+armut>груша
+pancar>свекла
+meyve>фрукт
+sebzeler>овощи
+kavun>дыня
+karpuz>арбуз
+kek>торт
+çikolata>шоколад
+et>мясо
+patates>картофель
+salata>салат
+domates>помидор
+salatalık>огурец
+lahana>капуста
+püresi>каша
+çorba>суп
+sandviç>бутерброд
+soda>газировка
+su>вода
+kahve>кофе
+çay>чай
+süt>молоко
+suyu>сок
+elma>яблоко
+üzüm>виноград
+portakal>апельсин
+ananas>ананас
+kayısı>абрикос
+şeftali>персик
+şeker>сахар, конфета
+pirinç>рис
+erişte>лапша
+sığır>говядина
+domuz>свинина
+tavuk>курица
+pirzola>котлета
+limon>лимон
+bezelye>горох
+çörek>булочка
+balık>рыба
+turta>пирожок
+dondurma>мороженое
+ceviz>орех
+yumurta>яйцо
+bira>пиво
+fincan>чашка
+bardak>стакан
+tabak>тарелка
+kaşık>ложка
+çatal>вилка
+bıçak>нож
+fincan tabağı>блюдце
+şişe>бутылка
+peçete>салфетка
+kahvaltı>завтрак
+öğle yemeği>обед
+akşam yemeği>ужин
+doğum günü>день рождения
+evli>женатый / замужняя
+şampuan>шампунь
+diş macunu>зубная паста
+diş fırçası>зубная щетка
+ayakkabı>обувь
+palto>пальто
+elbise>платье
+gömlek>рубашка
+etek>юбка
+eldiven>перчатка
+şapka>шляпа, шапка, кепка
+сeket>пиджак, куртка
+eşarp>шарф
+çorap>носок
+kazak>свитер
+tişört>футболка
+kravat>галстук
+pantolon>брюки
+el>рука
+ayak>нога
+kafa>голова
+göz>глаз
+dil>язык
+burun>нос
+ağız>рот
+kulak>ухо
+parmak>палец
+kişi>лицо 
+alın>лоб
+boyun>шея
+yanak>щека
+çene>подбородок
+futbol>футбол
+hokey>хоккей
+basketbol>баскетбол
+voleybol>волейбол
+jimnastik>гимнастика
+tenis>теннис
+kayak>лыжи
+paten>коньки
+satranç>шахматы
+poker>покер
+buzdolabı>холодильник
+kanepe>диван
+ayna>зеркало
+hediye>подарок
+fotoğraf makinesi>фотоаппарат
+çiçek>цветок
+vazo>ваза
+resim>картина
+mendil>носовой платок
+top>мяч
+balon>воздушный шар(ик)
+oyuncak>игрушка
+fatura>счет (для оплаты)
+zarf>конверт
+kağıt>бумага
+gazete>газета
+mektup>письмо
