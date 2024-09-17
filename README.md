@@ -26,7 +26,7 @@
 - **[`tgbot`](tgbot)** - реализация игры на tgbot с использованием SQLite3 и Catch тестов
 - **[`calculator`](calculator)** - реализация многофункционального калькулятора с использованием "Польской нотации" и токенизации элементов
 - **[`dictionary`](dictionary)** - тренажёр для тренировки запомнинания иностранных слов. Поддерживает все возможные языки. Сделан с помощью framework Qt. 
-![dictionary](dictionary/dictionary.png)
+- ![dictionary](dictionary/dictionary.png)
 - **[`any`](any)** - реализация `std::any`
 - **[`unique_ptr`](unique_ptr)** - реализация `std::unique_ptr`
 - **[`shared_ptr`](shared_ptr)** - реализация `std::shared_ptr` без `WeakPtr`
