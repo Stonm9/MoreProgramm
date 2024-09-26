@@ -29,6 +29,8 @@
 - ![dictionary](dictionary/dictionary.png)
 - **[`readerBMP`](readerBMP)** - небольшой просмотровщик ч\б BMP файлов
 - ![readerBMP](readerBMP/bmp.png)
+- **[`seaBattle`](seaBattle)** - игра Морской бой под windows, без использования ООП
+- ![seaBattle](seaBattle/seaBattle.png)
 - **[`calculator`](calculator)** - реализация многофункционального калькулятора с использованием "Польской нотации" и токенизации элементов
 - **[`any`](any)** - реализация `std::any`
 - **[`unique_ptr`](unique_ptr)** - реализация `std::unique_ptr`
