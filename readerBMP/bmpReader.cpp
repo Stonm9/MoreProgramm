@@ -99,10 +99,10 @@ private:
 
                 // Проверка, если это черный или белый пиксель
                 if (red == 255 && green == 255 && blue == 255) {
-                    std::cout << " ";  
+                    std::cout << "  ";  
                 }
                 else if (red == 0 && green == 0 && blue == 0) {
-                    std::cout << "#"; 
+                    std::cout << "# "; 
                 }
             }
             std::cout << std::endl;
